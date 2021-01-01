@@ -1,0 +1,206 @@
+
+canvas {
+    position:absolute;
+    top:360px;
+    left:0;
+    right: 0;
+    width:100%;
+    height:100%;
+    z-index: -1;
+    }
+
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width:100%; 
+	overflow:hidden;
+}
+
+#header_content{
+    width: 90%;
+    overflow: hidden;
+   
+}
+#logo{
+    float: left;
+}
+#options {
+  float: right;
+  line-height:500px;
+
+}
+li{
+    display:inline-block;
+	color:rgb(196, 196, 196);
+	text-decoration:none;
+	padding:10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgba(248, 248, 248, 0.158);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+    
+}
+
+#content {
+    display: flex;
+    flex-direction: inherit;
+    padding: 40px;
+    margin: 20px 400px;
+    background-color: black;
+}
+
+#sub_content{
+    display: flex;
+   
+ 
+
+  
+    
+}
+
+#letters {
+    
+          font-size:2.0rem;
+          line-height:1.5;
+          color: ivory;
+          text-align: justify;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+          vertical-align: bottom;
+}
+h6{
+    font-size: 1rem;
+    color: rgb(134, 134, 134);
+}
+#image{
+    margin-left: 10%;
+    margin-top: 10%;
+    
+}
+#mas {
+    background-color: black;
+}
+
+#products{
+    display: none;
+ margin: 400px;
+ 
+    
+}
+#product_content{
+    
+		display:block;
+	
+
+}
+
+h4{
+    
+    text-decoration: none;
+    color: cornsilk;
+    margin: 10px;
+    padding: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+p{
+    text-decoration: none;
+    color: cornsilk;
+    margin: 10px;
+    padding: 3px;
+}
+
+#contenedor{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+img{
+    padding: 10px;
+   
+}
+
+#contenedor1{
+    border:1px solid black;
+				height:10px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor2{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor3{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor4{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor5{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor6{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
+#contenedor7{
+    border:1px solid black;
+				height:200px;
+				width:570px;
+				
+				float: right;;
+				margin-right:10px;
+				margin-bottom:30px;
+}
